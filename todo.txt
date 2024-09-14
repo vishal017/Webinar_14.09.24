@@ -1,0 +1,6 @@
+1) Wakeup
+2) Go to college
+3) Eat
+3) Sleep
+
+Repeat 1-4
